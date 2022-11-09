@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route}
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route exact path='/' element={<Home />}/>
         <Route exact path='/emailverified' element={<EmailVerified />}/>
