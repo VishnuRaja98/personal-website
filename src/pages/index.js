@@ -52,25 +52,26 @@ const Home = () => {
         <div class="tablesection tablesection66">
           <div className='sectiondata'>
             <h2>About me</h2>
-            <p>I like building things from scratch. <a href='https://youtu.be/c6pbDfmM9ZY' target="_blank" rel="noopener noreferrer">I built a raft</a> from scratch at Kodungallur - my home town. 
-            I am learing the piano, starting with music theory. Will soon post a link to me playing 'River Flows in You' by Yiruma. This year,  I also played Taasha in a <a href='https://www.instagram.com/reel/CjwwcOEjAGP/?utm_source=ig_web_copy_link' target="_blank" rel="noopener noreferrer">Dhol-Taasha band</a>.
-            I play most sports and am up for most outdoor and indoor activities.
+            <p>
+            Avid coder currently interested in Artificial intelligence - mainly Game AI and Creative AI.
             </p>
             <p>
-              Mainly, I am a programmer. I have experience developing large application in Python and Javascript. I do competative coding in C++ and develop games using Unity C#. I have some experience with Machine Learning (ML) and am working towards imporving my ML skills. 
+              Experienced in Python, C++, Javascript and currently a freelance Developer
             </p>
           </div>
           <div className='sectiondata'>
             <h2>Research Interests</h2>
-            <p>
-              UNderstanding deep learning
-            </p>
-            <p>
-              GAme AI Craetive AI
-            </p>
-            <p>
-              Neural Systems
-            </p>
+            <ul>
+            <li>
+              Deep Learning Models and their Mathematical Significance
+            </li>
+            <li>
+              Artificial intelligence for Games as Creative applications
+            </li>
+            <li>
+              Interactive neural systems
+            </li>
+            </ul>
           </div>
         </div>
       </div>
