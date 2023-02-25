@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.cb236c72.css",
-    "main.js": "/personal-website/static/js/main.a9a213e1.js",
+    "main.css": "/personal-website/static/css/main.692b10c5.css",
+    "main.js": "/personal-website/static/js/main.7865dd76.js",
     "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
     "static/media/myphoto1.jpg": "/personal-website/static/media/myphoto1.b5fd32c390bf0f7ec2ff.jpg",
+    "static/media/Coursera_3DLECCS8QS79.png": "/personal-website/static/media/Coursera_3DLECCS8QS79.f9a25c45b7852c26056d.png",
+    "static/media/Coursera_AZPVLSL4YDZF.png": "/personal-website/static/media/Coursera_AZPVLSL4YDZF.f0750b62a3ab4a0515f4.png",
+    "static/media/Coursera_F7N2N8DQNV7Y.png": "/personal-website/static/media/Coursera_F7N2N8DQNV7Y.f1329fa9351e1ac359c9.png",
+    "static/media/Coursera_SUB653ZWHH8A.png": "/personal-website/static/media/Coursera_SUB653ZWHH8A.5bbb8849a9886eaeb440.png",
+    "static/media/Coursera_NMMR3XQ6R8N9.png": "/personal-website/static/media/Coursera_NMMR3XQ6R8N9.2bb88a312ed9bb921227.png",
     "static/media/gmail.png": "/personal-website/static/media/gmail.f0044acdc375e26d45ea.png",
     "index.html": "/personal-website/index.html",
-    "main.cb236c72.css.map": "/personal-website/static/css/main.cb236c72.css.map",
-    "main.a9a213e1.js.map": "/personal-website/static/js/main.a9a213e1.js.map",
+    "main.692b10c5.css.map": "/personal-website/static/css/main.692b10c5.css.map",
+    "main.7865dd76.js.map": "/personal-website/static/js/main.7865dd76.js.map",
     "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb236c72.css",
-    "static/js/main.a9a213e1.js"
+    "static/css/main.692b10c5.css",
+    "static/js/main.7865dd76.js"
   ]
 }
